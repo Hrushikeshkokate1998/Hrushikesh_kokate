@@ -56,27 +56,5 @@ public class UpdateDataHandler2  extends HttpServlet{
 		
 		
 	}
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }
